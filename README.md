@@ -1,6 +1,9 @@
 # Kaggle-Titanic-Pratica
 
-<img source="https://www.kaggle.com/static/images/site-logo.png">
+
+<p align="center">
+    <img alt="Kaggle" src="https://www.kaggle.com/static/images/site-logo.png">
+</p>
 
 Notebook sobre o estudo no dataset da Kaggle: Titanic - Machine Learning from Disaster.
 
